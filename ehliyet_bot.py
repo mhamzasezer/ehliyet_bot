@@ -19,7 +19,7 @@ session.headers.update(headers)
 
 user_id = "*************"
 user_pass = "************"
-school_id = "************"
+school_id = "19PdhBo7H3o+brGQYS+1OA=="
 
 
 # logging.basicConfig()
