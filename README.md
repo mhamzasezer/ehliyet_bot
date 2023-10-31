@@ -1,5 +1,5 @@
 # ehliyet_bot
-This script automates the process of logging into the Kanto Motor School's website for making reservations, fetching calendar data, checking for available time slots, and sending notifications via the Line API for any newly available time slots.
+This script automates the process of logging into the Kanto Motor School's website for fetching calendar data, checking for available time slots, and sending notifications via the Line API for any newly available time slots.
 
 ## Prerequisites
 
